@@ -1,7 +1,7 @@
 .shapka{
     font-size: 3rem;
-    color: aquamarine;
+    color: rgb(36, 85, 69);
     font-family:Georgia, 'Times New Roman', Times, serif;
-    border: 1px aquamarine;
-    box-shadow: 20px 15px rgb(96, 173, 148) ;
+    border: 1px rgb(29, 102, 78);
+    box-shadow: 10px 5px rgba(148, 185, 174, 0.767) ;
 }
