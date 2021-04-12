@@ -2,5 +2,6 @@
     font-size: 5rem;
     color: aquamarine;
     font-family:Georgia, 'Times New Roman', Times, serif;
-    border: 1PX 20PX aquamarine;
+    border: 2px aquamarine;
+    box-shadow: 20px 15px aquamarine ;
 }
