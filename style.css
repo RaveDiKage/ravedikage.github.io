@@ -1,6 +1,6 @@
 .shapka{
-    font-size: 5rem;
+    font-size: 15rem;
     color: aquamarine;
     font-family:Georgia, 'Times New Roman', Times, serif;
-    font-style: italic;
+    border: 1PX 20PX aquamarine;
 }
