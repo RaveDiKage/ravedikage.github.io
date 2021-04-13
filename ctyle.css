@@ -7,3 +7,13 @@
     border: 1px rgb(29, 102, 78);
     box-shadow: 10px 10px 10px 10px rgba(148, 185, 174, 0.767) ;
 }
+.sotelit1{
+    border: 1px bisque;
+    width: 60%;
+    box-shadow: 10px 10px 10px 10px bisque;
+    margin-left: 14%;
+    margin-top: 3%;
+    font-size: 2rem;
+    background: #f5e5c6;
+    font-style: revert;
+}
